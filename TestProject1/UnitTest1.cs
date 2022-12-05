@@ -46,7 +46,7 @@ namespace TestProject1
         public void DivideShouldThrowExceptionTest()
         {
             Calculator calculator = new Calculator();
-            int res = calculator.Divide(10, 0);
+            int res = calculator.Divide(20, 0);
         }
     }
 }
