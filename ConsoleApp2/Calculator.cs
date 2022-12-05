@@ -18,7 +18,7 @@ namespace ConsoleApp2
         }
         public int Multiply(int a, int b)
         {
-            return a * b;
+            rreturn a * b;
         }
 
         public int Divide(int a, int b)
